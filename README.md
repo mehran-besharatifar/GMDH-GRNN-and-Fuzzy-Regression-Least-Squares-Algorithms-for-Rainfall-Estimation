@@ -1,1 +1,1 @@
-# GMDH-GRNN-and-Fuzzy-Regression-Least-Squares-Algorithms-for-Rainfall-Estimation
+# GMDH-GRNN-and-Fuzzy--Algorithms-for-Rainfall-Estimation
